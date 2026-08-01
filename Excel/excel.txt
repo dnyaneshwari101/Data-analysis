@@ -1,0 +1,155 @@
+## 1. Excel Basics
+
+* Workbook, Worksheet
+* Rows, Columns, Cells
+* Cell references (Relative, Absolute, Mixed)
+* Formatting
+* Tables
+
+## 2. Data Cleaning (Very Important)
+
+* Remove Duplicates
+* Find & Replace
+* Text to Columns
+* Flash Fill
+* TRIM
+* CLEAN
+* Handling Missing Values
+* Data Validation
+
+## 3. Basic Functions
+
+* SUM
+* AVERAGE
+* COUNT
+* COUNTA
+* MIN
+* MAX
+* ROUND
+
+## 4. Logical Functions
+
+* IF
+* IFS
+* AND
+* OR
+* NOT
+* IFERROR
+
+## 5. Conditional Functions
+
+* COUNTIF
+* COUNTIFS
+* SUMIF
+* SUMIFS
+* AVERAGEIF
+* AVERAGEIFS
+
+## 6. Text Functions
+
+* LEFT
+* RIGHT
+* MID
+* LEN
+* TRIM
+* UPPER
+* LOWER
+* PROPER
+* CONCAT
+* TEXTJOIN
+* SUBSTITUTE
+* FIND
+* SEARCH
+
+## 7. Date & Time Functions
+
+* TODAY
+* NOW
+* YEAR
+* MONTH
+* DAY
+* DATEDIF
+* EDATE
+* NETWORKDAYS
+
+## 8. Lookup Functions ⭐⭐⭐⭐⭐
+
+* XLOOKUP
+* VLOOKUP
+* HLOOKUP
+* INDEX
+* MATCH
+
+## 9. Sorting & Filtering
+
+* Sort
+* Filter
+* Advanced Filter
+
+## 10. Conditional Formatting
+
+* Highlight duplicates
+* Color scales
+* Data bars
+* Icon sets
+* Formula-based formatting
+
+## 11. Pivot Tables ⭐⭐⭐⭐⭐
+
+* Create Pivot Tables
+* Group data
+* Count
+* Sum
+* Average
+* Calculated fields
+* Slicers
+
+## 12. Charts
+
+* Bar Chart
+* Column Chart
+* Line Chart
+* Pie Chart
+* Scatter Plot
+* Histogram
+* Combo Chart
+
+## 13. Dashboard Building
+
+* KPIs
+* Slicers
+* Pivot Charts
+* Dynamic Charts
+
+## 14. What-If Analysis
+
+* Goal Seek
+* Scenario Manager
+* Data Tables
+
+## 15. Power Query ⭐⭐⭐⭐
+
+* Import CSV
+* Merge tables
+* Append tables
+* Split columns
+* Unpivot/Pivot
+* Clean data automatically
+
+## 16. Power Pivot (Basic)
+
+* Relationships
+* Data Model
+* Basic DAX (optional for beginners)
+
+---
+
+### Practice Projects
+
+Build these projects in Excel:
+
+* ✅ Titanic Dataset
+* ✅ Sales Dashboard
+* ✅ HR Analytics Dashboard
+* ✅ Superstore Sales Analysis
+* ✅ Customer Churn Analysis
